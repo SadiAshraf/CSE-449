@@ -1,20 +1,22 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/2793828257mhghztvkddwf
+
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/EPE8Zb1KTOs
+
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1MB6sww73OtOaiLk2cSKl9cI6JGEwRt9YLZmF2XhmMzY/edit?usp=sharing
 
 Project title:
-NLP using ANN
+Accelerating Image Classification with Convolutional Neural Networks on an HPC-enabled Python Environment
 
 Group Number:
-0
+04
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+23141067 MD. SADI ASHRAF
+22366011 Nobi Hossain
+22373001 FAHMEE FAIZA
+

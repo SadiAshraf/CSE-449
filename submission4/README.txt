@@ -5,28 +5,23 @@ Unlisted YouTube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://researcher.nature.com/your-submissions?utm_source=submissions&utm_medium=email&utm_campaign=confirmation-email&journal_id=10586
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Increasing Image Classification Speed in Python Environments Using Convolutional Neural Networks Supported by High-Performance Computing
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Paper submission date (to workshop/conference):
-25 October 1999
+01.04.2023
 
-Paper submission ID: (received) from conference/workshop
-1341234
+Paper submission ID: (received) from Springer nature cluster computing
+ 0c0dfe1c-9fc7-432a-9f6d-16345c76ef71
 
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
-
-Conference URL:
-http://confsite/...
 
 Group Number:
-0
+04
 
 Group Members:
 12345678 Name A

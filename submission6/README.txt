@@ -17,7 +17,7 @@ Pro Hadoop by Jason Venner
 
 did project:
 How to identify road crack detection and calculating its accuracy. 
-
+Created a website for online electronic store  
 
 
 did something else
